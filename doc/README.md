@@ -41,7 +41,7 @@ The following are developer notes on how to build NXBoost on your native platfor
 
 Development
 ---------------------
-The NXBoost repo's [root README](https://github.com/NXBoostCRYPTO/NXBoost/blob/master/README.md) contains relevant information on the development process and automated testing.
+The NXBoost repo's [root README](https://github.com/ALQOCRYPTO/ALQO/blob/master/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Multiwallet Qt Development](multiwallet-qt.md)

@@ -44,7 +44,7 @@ Instructions: Homebrew
 
 1. Clone the github tree to get the source code and go into the directory.
 
-        git clone https://github.com/NXBoostCRYPTO/NXBoost
+        git clone https://github.com/ALQOCRYPTO/ALQO
         cd NXBoost
 
 2.  Build nxboostd:

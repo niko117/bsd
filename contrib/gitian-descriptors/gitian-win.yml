@@ -22,7 +22,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/NXBoostCRYPTO/NXBoost.git"
+- "url": "https://github.com/niko117/bsd.git"
   "dir": "nxboost"
 files: []
 script: |

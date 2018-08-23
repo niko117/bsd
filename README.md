@@ -59,4 +59,4 @@ _For more information check out our whitepaper at [nxboost.org/whitepaper.pdf](h
 
 Alternatively we have added a non .pdf Version into our Github. You can find it in the NXBoost Github Wiki.
 
-[https://github.com/NXBoostCRYPTO/NXBoost/wiki](https://github.com/NXBoostCRYPTO/NXBoost/wiki)
+[https://github.com/ALQOCRYPTO/ALQO/wiki](https://github.com/ALQOCRYPTO/ALQO/wiki)
